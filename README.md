@@ -12,3 +12,6 @@ Step : 4 Your website is ready lunch it
 
 A simple step is how to install is : 
 Go to your manage tools and unzip files in zip that i have uploaded and extract it. then go to file manager and upload all files (index.html,header.html,footer.html) then run your website
+
+
+this no longer works
